@@ -1,4 +1,5 @@
 # Notes 1: print()
+[Tutorial Video: print() and expressions](https://youtu.be/lkQT8zb0_A8?si=nqWw4YAs2XMVI9MX)
 
 The `print()` function is used to **display information** on the screen.
 
